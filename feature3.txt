@@ -1,5 +1,3 @@
-<<<<<<< HEAD
+
 edited in dev to simulate conflictc
-=======
-edited in dev2 again
->>>>>>> dev2
+
